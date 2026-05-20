@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="D:/locker/SmartLocker/SmartLocker.API/SmartLocker.API.csproj" />
+  <Project Path="D:/locker/SmartLocker/SmartLocker.web/SmartLocker.web.csproj" />
+</Solution>
